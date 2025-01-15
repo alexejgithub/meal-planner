@@ -3,23 +3,23 @@
         {
             "Name":"Montag",
             "Title":"Montag",
-            "RecipeURL":"www.google.de",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2021/10/Bolognese-einfach-Gaumenfreundin-500x500.jpg",
-            "Description":"Suppe",
+            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/51024#",
+            "Image":"https://cdn.shopify.com/s/files/1/0274/9503/9079/files/20220211142754-margherita-9920_5a73220e-4a1a-4d33-b38f-26e98e3cd986.jpg?v=1723650067?w=640",
+            "Description":"Pizza",
             "Ingredients":[
                 {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":"Stück"
+                    "Name":"Pizzamehl",
+                    "Amount":"500",
+                    "Unit":"g"
                 },
                 {
-                    "Name":"Staudensellerie",
-                    "Amount":"2",
-                    "Unit":"Stangen"
+                    "Name":"Hefe",
+                    "Amount":"10",
+                    "Unit":"g"
                 }, {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
+                    "Name":"Käse",
+                    "Amount":"150",
+                    "Unit":"g"
                 }, 
                 {
                     "Name":"Olivenöl",
@@ -67,9 +67,9 @@
         },     {
             "Name":"Dienstag",
             "Title":"Dienstag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/44318",
+            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/29259#",
             "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2023/03/Lachs-im-Ofen-Gaumenfreundin-500x500.jpg",
-            "Description":"Lachs mit Quincha, Reis und Gemüse",
+            "Description":"Fischknusperle mit Kartoffelnsalat",
             "Ingredients":[
                 {
                     "Name":"Lachs",
@@ -121,7 +121,7 @@
             "Title":"Mittwoch",
             "RecipeURL":"https://blog.nomad-reisen.de/oromo-kirgisische-teigtaschen/",
             "Image":"https://i0.wp.com/blog.nomad-reisen.de/wp-content/uploads/2020/05/20200513_211146.jpg?resize=1024%2C650&ssl=1",
-            "Description":"Oromo mit Karotten und Spitzkohl",
+            "Description":"Plov mit Tomatensalat",
             "Ingredients":[
                 {
                     "Name":"Mehl",
@@ -159,7 +159,7 @@
             "Title":"Donnerstag",
             "RecipeURL":"https://en.wikipedia.org/wiki/Vinegret",
             "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vinegret_cleaned.jpg/308px-Vinegret_cleaned.jpg",
-            "Description":"Vinegret",
+            "Description":"Borsch",
             "Ingredients":[
                 {
                     "Name":"Kartoffeln",
@@ -198,7 +198,7 @@
             "Title":"Freitag",
             "RecipeURL":"https://www.einfachkochen.de/rezepte/haehnchen-curry-mit-kokosmilch-in-nur-30-minuten-fertig",
             "Image":"https://www.einfachkochen.de/sites/einfachkochen.de/files/styles/1500_1130/public/2021-07/haehnchen_curry_kokosmilch_1_0.jpg?h=4521fff0&itok=nBL5_-eq",
-            "Description":"Hänchencurry mit Reis",
+            "Description":"Butterchicken mit Reis und Erbsen",
             "Ingredients":[
                 
                 {
