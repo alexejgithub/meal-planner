@@ -1,245 +1,232 @@
 {
-    "meals":[
+    "meals": [
         {
-            "Name":"Montag",
-            "Title":"Montag",
-            "RecipeURL":"www.google.de",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2021/10/Bolognese-einfach-Gaumenfreundin-500x500.jpg",
-            "Description":"Lasange",
-            "Ingredients":[
+            "Name": "Montag",
+            "Title": "Montag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/44402",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2024/02/Italienische-Lasagne-Gaumenfreundin-500x500.jpg",
+            "Description": "Lasagne",
+            "Ingredients": [
                 {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":"Stück"
+                    "Name": "Knoblauchzehen",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Staudensellerie",
-                    "Amount":"2",
-                    "Unit":"Stangen"
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Olivenöl",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Rinderhackfleisch",
-                    "Amount":"400",
-                    "Unit":"g"
+                    "Name": "Hackfleisch",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 1
                 },
                 {
-                    "Name":"Tomatenmark",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Tomatenmark",
+                    "Amount": "2",
+                    "Unit": "EL",
+                    "Order": 2
                 },
                 {
-                    "Name":"gehackte Tomaten - Dose",
-                    "Amount":"800",
-                    "Unit":"g"
+                    "Name": "geschälte Tomaten",
+                    "Amount": "1",
+                    "Unit": "Dose",
+                    "Order": 2
                 },
                 {
-                    "Name":"Oregano",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Lasagneplatten",
+                    "Amount": "12",
+                    "Unit": "",
+                    "Order": 2
                 },
                 {
-                    "Name":"Spaghetti",
-                    "Amount":"500",
-                    "Unit":"g"
-                },    {
-                    "Name":"Grüner Salat",
-                    "Amount":"1",
-                    "Unit":""
-                },    {
-                    "Name":"Tomaten",
-                    "Amount":"2",
-                    "Unit":""
-                },    {
-                    "Name":"Gurke",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },     {
-            "Name":"Dienstag",
-            "Title":"Dienstag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/44318",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2023/03/Lachs-im-Ofen-Gaumenfreundin-500x500.jpg",
-            "Description":"Lachs mit Quincha, Reis und Gemüse",
-            "Ingredients":[
-                {
-                    "Name":"Lachs",
-                    "Amount":"300",
-                    "Unit":"g"
+                    "Name": "geriebener Käse",
+                    "Amount": "150",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Bio-Zitrone",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Olivenöl",
-                    "Amount":"6",
-                    "Unit":"EL"
-                }, 
-                {
-                    "Name":"Knoblauchzehen",
-                    "Amount":"2",
-                    "Unit":""
+                    "Name": "Milch",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Thymian",
-                    "Amount":"2",
-                    "Unit":"Zweige"
-                },
-                {
-                    "Name":"Honig",
-                    "Amount":"1",
-                    "Unit":"EL"
-                },
-                {
-                    "Name":"Quincha",
-                    "Amount":"1",
-                    "Unit":"cup"
-                },
-                {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Broccoli",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },{
-            "Name":"Mittwoch",
-            "Title":"Mittwoch",
-            "RecipeURL":"https://blog.nomad-reisen.de/oromo-kirgisische-teigtaschen/",
-            "Image":"https://i0.wp.com/blog.nomad-reisen.de/wp-content/uploads/2020/05/20200513_211146.jpg?resize=1024%2C650&ssl=1",
-            "Description":"Oromo mit Karotten und Spitzkohl",
-            "Ingredients":[
-                {
-                    "Name":"Mehl",
-                    "Amount":"600",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Ei",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"2",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":""
-                },
-                {
-                    "Name":"Weiskohl",
-                    "Amount":"1500",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Möhren",
-                    "Amount":"1",
-                    "Unit":""
+                    "Name": "Mehl",
+                    "Amount": "25",
+                    "Unit": "g",
+                    "Order": 2
                 }
             ]
         },
         {
-            "Name":"Donnerstag",
-            "Title":"Donnerstag",
-            "RecipeURL":"https://en.wikipedia.org/wiki/Vinegret",
-            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vinegret_cleaned.jpg/308px-Vinegret_cleaned.jpg",
-            "Description":"Vinegret",
-            "Ingredients":[
+            "Name": "Dienstag",
+            "Title": "Dienstag",
+            "RecipeURL": "https://de.wikipedia.org/wiki/Fischstäbchen",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fishfinger_classic_frozen_1.jpg/320px-Fishfinger_classic_frozen_1.jpg",
+            "Description": "Fischtäbchen mit Kartoffeln",
+            "Ingredients": [
                 {
-                    "Name":"Kartoffeln",
-                    "Amount":"800",
-                    "Unit":"g"
-                },   
-                {
-                    "Name":"Möhren",
-                    "Amount":"3",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Rote Beete",
-                    "Amount":"1",
-                    "Unit":"Packung"
+                    "Name": "Fischstäbchen",
+                    "Amount": "1",
+                    "Unit": "Packung",
+                    "Order": 2
                 },
                 {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Knoblauch",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Erbsen",
-                    "Amount":"1",
-                    "Unit":"Dose"
+                    "Name": "Kartoffeln",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 1
                 },
                 {
-                    "Name":"Gewürzgurken",
-                    "Amount":"1",
-                    "Unit":"Glas"
+                    "Name": "Broccoli",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         },
         {
-            "Name":"Freitag",
-            "Title":"Freitag",
-            "RecipeURL":"https://www.einfachkochen.de/rezepte/haehnchen-curry-mit-kokosmilch-in-nur-30-minuten-fertig",
-            "Image":"https://www.einfachkochen.de/sites/einfachkochen.de/files/styles/1500_1130/public/2021-07/haehnchen_curry_kokosmilch_1_0.jpg?h=4521fff0&itok=nBL5_-eq",
-            "Description":"Hänchencurry mit Reis",
-            "Ingredients":[
-                
+            "Name": "Mittwoch",
+            "Title": "Mittwoch",
+            "RecipeURL": "https://en.wikipedia.org/wiki/Dimlama",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dimlama_%2816425713838%29.jpg/320px-Dimlama_%2816425713838%29.jpg",
+            "Description": "Dymdama",
+            "Ingredients": [
                 {
-                    "Name":"Hänchenbrust",
-                    "Amount":"250",
-                    "Unit":"g"
+                    "Name": "Lamm",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 4
                 },
                 {
-                    "Name":"Asia Bohnen",
-                    "Amount":"1",
-                    "Unit":"Glas"
-                },    
-                {
-                    "Name":"Rotes Curry",
-                    "Amount":"1",
-                    "Unit":"TL"
-                },    
-                {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Kokosmilch",
-                    "Amount":"200",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Sprossen",
-                    "Amount":"1",
-                    "Unit":"Glass"
+                    "Name": "Zwiebel",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Paprika",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Kartoffeln",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order": 1
                 },
                 {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
+                    "Name": "Zwiebeln",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Aubergine",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Weißkohl",
+                    "Amount": "0.5",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Paprika",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Tomaten",
+                    "Amount": "5",
+                    "Unit": "",
+                    "Order": 1
+                }
+            ]
+        }, {
+            "Name": "Donnerstag",
+            "Title": "Donnerstag",
+            "RecipeURL": "https://www.chefkoch.de/rezepte/3157751470050083/Russischer-Salat-Olivier.html",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Салат_Оливье_03.jpg/1538px-Салат_Оливье_03.jpg",
+            "Description": "Olivie",
+            "Ingredients": [
+                {
+                    "Name": "Kartoffeln",
+                    "Amount": "400",
+                    "Unit": "g",
+                    "Order": 1
+                },
+                {
+                    "Name": "Möhren",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Eier",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order": 3
+                },
+                {
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "Stück",
+                    "Order": 1
+                },
+                {
+                    "Name": "Erbsen",
+                    "Amount": "1",
+                    "Unit": "Dose",
+                    "Order": 2
+                },
+                {
+                    "Name": "Gewürzgurken",
+                    "Amount": "1",
+                    "Unit": "Glas",
+                    "Order": 2
+                },
+                {
+                    "Name": "Fleischwurst",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order": 3
+                },
+                {
+                    "Name": "Majonese",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 3
+                }
+            ]
+        },
+        {
+            "Name": "Freitag",
+            "Title": "Freitag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/36254",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Turkish_köfte%2C_bulgur%2C_french_fries.jpg/320px-Turkish_köfte%2C_bulgur%2C_french_fries.jpg",
+            "Description": "Köfte mit Auberginenpaste",
+            "Ingredients": [
+                {
+                    "Name": "Köfte",
+                    "Amount": "400",
+                    "Unit": "g",
+                    "Order": 5
+                },
+                {
+                    "Name": "Aubergine",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         }

@@ -17,6 +17,7 @@ type Ingredient={
   name:string;
   amount:string;
   unit:string;
+  order:Number;
 }
 
 @Component({
@@ -49,11 +50,12 @@ export class MealViewerComponent implements OnInit{
         imageUrl: `${meal.Image}`,
         recipeURL:`${meal.RecipeURL}`
       });
-      meal.Ingredients.forEach((ing: { Name: any; Unit: any; Amount: any; }) => {
+      meal.Ingredients.forEach((ing: { Name: any; Unit: any; Amount: any; Order:Number}) => {
         ingredients.push({
           name:`${ing.Name}`,
           unit:`${ing.Unit}`,
           amount:`${ing.Amount}`,
+          order:ing.Order
         });
       });
     });
@@ -65,17 +67,17 @@ export class MealViewerComponent implements OnInit{
     ingredients.forEach(ing => {
       if(ingMap.has(ing.name)){
         const tmpAmount = Number(ingMap.get(ing.name)?.amount)+Number(ing.amount)
-        const tmpIngredient : Ingredient = {name:ing.name,amount:String(tmpAmount),unit:ing.unit}
+        const tmpIngredient : Ingredient = {name:ing.name,amount:String(tmpAmount),unit:ing.unit,order:ing.order}
         ingMap.set(ing.name,tmpIngredient); 
       }else{
         ingMap.set(ing.name,ing);
-
       }
     });
     const result:Ingredient[] = [];
     ingMap.forEach((v,k)=>{
       result.push(v);
     })
+    result.sort((a,b)=>{return a.order<=b.order?-1:1})
     this.ingredients.set(result)
 
   }

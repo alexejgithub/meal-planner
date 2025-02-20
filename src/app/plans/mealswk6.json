@@ -1,245 +1,299 @@
 {
-    "meals":[
+    "meals": [
         {
-            "Name":"Montag",
-            "Title":"Montag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/27996#",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2021/10/Bolognese-einfach-Gaumenfreundin-500x500.jpg",
-            "Description":"TBD",
-            "Ingredients":[
+            "Name": "Montag",
+            "Title": "Montag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/20682",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2020/10/Spaghetti_SchinkenSahne-Rezeptfoto-500x500.jpg",
+            "Description": "Spaghetti mit Schinken-Sahne-Sauce und Erbsen",
+            "Ingredients": [
                 {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":"Stück"
+                    "Name": "Spaghetti",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Staudensellerie",
-                    "Amount":"2",
-                    "Unit":"Stangen"
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Olivenöl",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Rinderhackfleisch",
-                    "Amount":"400",
-                    "Unit":"g"
+                    "Name": "Kochschinken",
+                    "Amount": "150",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Tomatenmark",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Sahne",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"gehackte Tomaten - Dose",
-                    "Amount":"800",
-                    "Unit":"g"
+                    "Name": "Milch",
+                    "Amount": "200",
+                    "Unit": "ml",
+                    "Order": 3
                 },
                 {
-                    "Name":"Oregano",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Erbsen",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Spaghetti",
-                    "Amount":"500",
-                    "Unit":"g"
-                },    {
-                    "Name":"Grüner Salat",
-                    "Amount":"1",
-                    "Unit":""
-                },    {
-                    "Name":"Tomaten",
-                    "Amount":"2",
-                    "Unit":""
-                },    {
-                    "Name":"Gurke",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },     {
-            "Name":"Dienstag",
-            "Title":"Dienstag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/44318",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2023/03/Lachs-im-Ofen-Gaumenfreundin-500x500.jpg",
-            "Description":"Lachs mit Quincha, Reis und Gemüse",
-            "Ingredients":[
-                {
-                    "Name":"Lachs",
-                    "Amount":"300",
-                    "Unit":"g"
+                    "Name": "Parmesan",
+                    "Amount": "50",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Bio-Zitrone",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Olivenöl",
-                    "Amount":"6",
-                    "Unit":"EL"
-                }, 
-                {
-                    "Name":"Knoblauchzehen",
-                    "Amount":"2",
-                    "Unit":""
+                    "Name": "Grüner Salat",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Thymian",
-                    "Amount":"2",
-                    "Unit":"Zweige"
+                    "Name": "Tomaten",
+                    "Amount": "5",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Honig",
-                    "Amount":"1",
-                    "Unit":"EL"
-                },
-                {
-                    "Name":"Quincha",
-                    "Amount":"1",
-                    "Unit":"cup"
-                },
-                {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Broccoli",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },{
-            "Name":"Mittwoch",
-            "Title":"Mittwoch",
-            "RecipeURL":"https://blog.nomad-reisen.de/oromo-kirgisische-teigtaschen/",
-            "Image":"https://i0.wp.com/blog.nomad-reisen.de/wp-content/uploads/2020/05/20200513_211146.jpg?resize=1024%2C650&ssl=1",
-            "Description":"Oromo mit Karotten und Spitzkohl",
-            "Ingredients":[
-                {
-                    "Name":"Mehl",
-                    "Amount":"600",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Ei",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"2",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":""
-                },
-                {
-                    "Name":"Weiskohl",
-                    "Amount":"1500",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Möhren",
-                    "Amount":"1",
-                    "Unit":""
+                    "Name": "Gurke",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         },
         {
-            "Name":"Donnerstag",
-            "Title":"Donnerstag",
-            "RecipeURL":"https://en.wikipedia.org/wiki/Vinegret",
-            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vinegret_cleaned.jpg/308px-Vinegret_cleaned.jpg",
-            "Description":"Vinegret",
-            "Ingredients":[
+            "Name": "Dienstag",
+            "Title": "Dienstag",
+            "RecipeURL": "https://www.chefkoch.de/rezepte/2592191407067897/Dorade-im-Backofen.html",
+            "Image": "https://img.chefkoch-cdn.de/rezepte/2592191407067897/bilder/1350323/crop-642x428/dorade-im-backofen.jpg",
+            "Description": "Dorade im Backofen",
+            "Ingredients": [
                 {
-                    "Name":"Kartoffeln",
-                    "Amount":"800",
-                    "Unit":"g"
-                },   
-                {
-                    "Name":"Möhren",
-                    "Amount":"3",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Rote Beete",
-                    "Amount":"1",
-                    "Unit":"Packung"
+                    "Name": "Dorade",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 2
                 },
                 {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Kartoffel",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order": 1
                 },
                 {
-                    "Name":"Erbsen",
-                    "Amount":"1",
-                    "Unit":"Dose"
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Gewürzgurken",
-                    "Amount":"1",
-                    "Unit":"Glas"
+                    "Name": "Knoblauch",
+                    "Amount": "4",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Zitrone",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Grüne Kräuter",
+                    "Amount": "1",
+                    "Unit": "Bund",
+                    "Order": 1
+                },
+                {
+                    "Name": "Broccoli",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         },
         {
-            "Name":"Freitag",
-            "Title":"Freitag",
-            "RecipeURL":"https://www.einfachkochen.de/rezepte/haehnchen-curry-mit-kokosmilch-in-nur-30-minuten-fertig",
-            "Image":"https://www.einfachkochen.de/sites/einfachkochen.de/files/styles/1500_1130/public/2021-07/haehnchen_curry_kokosmilch_1_0.jpg?h=4521fff0&itok=nBL5_-eq",
-            "Description":"Hänchencurry mit Reis",
-            "Ingredients":[
-                
+            "Name": "Mittwoch",
+            "Title": "Mittwoch",
+            "RecipeURL": "https://www.iamcook.ru/showrecipe/22978",
+            "Image": "https://img.iamcook.ru/2020/upl/recipes/zen/u-da447112a5be1e4ebaaccf95c707d914.jpg",
+            "Description": "Gan-Fan mit Reis",
+            "Ingredients": [
                 {
-                    "Name":"Hänchenbrust",
-                    "Amount":"250",
-                    "Unit":"g"
+                    "Name": "Rindfleisch",
+                    "Amount": "400",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Asia Bohnen",
-                    "Amount":"1",
-                    "Unit":"Glas"
-                },    
-                {
-                    "Name":"Rotes Curry",
-                    "Amount":"1",
-                    "Unit":"TL"
-                },    
-                {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Kokosmilch",
-                    "Amount":"200",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Sprossen",
-                    "Amount":"1",
-                    "Unit":"Glass"
+                    "Name": "Paprika",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Paprika",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Zwiebel",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
+                    "Name": "Karotten",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Knoblauch",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Rettich",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Reis",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order": 2
+                },
+                {
+                    "Name": "Chinakohl",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                }
+            ]
+        },
+        {
+            "Name": "Donnerstag",
+            "Title": "Donnerstag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/45866",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2023/04/Burrito-Gaumenfreundin-500x500.jpg",
+            "Description": "Burrito",
+            "Ingredients": [
+                {
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "schwarze Bohnen",
+                    "Amount": "1",
+                    "Unit": "Dose",
+                    "Order": 2
+                },
+                {
+                    "Name": "Mais",
+                    "Amount": "1",
+                    "Unit": "Dose",
+                    "Order": 2
+                },
+                {
+                    "Name": "Tomaten",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Romanasalat-Herz",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Rinderhackfleisch",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 3
+                },
+                {
+                    "Name": "Tomatenmark",
+                    "Amount": "2",
+                    "Unit": "EL",
+                    "Order": 3
+                },
+                {
+                    "Name": "Weizen-Tortillas",
+                    "Amount": "1",
+                    "Unit": "Pack",
+                    "Order": 3
+                },
+                {
+                    "Name": "geriebener Käse",
+                    "Amount": "100",
+                    "Unit": "g",
+                    "Order": 3
+                }
+            ]
+        },
+        {
+            "Name": "Freitag",
+            "Title": "Freitag",
+            "RecipeURL": "https://shop.kochdichturkisch.de/2016/11/07-tuerkische-huehnersuppe/",
+            "Image": "https://shop.kochdichturkisch.de/wp-content/uploads/slider/cache/df211562d403a928ffcb10f9360fdc6e/Sehriyeli_ve_domatesli_tavuk_corbasi_Turkische_Huhnersuppe_mit_Nudeln.webp",
+            "Description": "Türkische Hühnersuppe",
+            "Ingredients": [
+                {
+                    "Name": "Hühnerschenkel",
+                    "Amount": "600",
+                    "Unit": "g",
+                    "Order": 3
+                },
+                {
+                    "Name": "Hühnerbrühe",
+                    "Amount": "800",
+                    "Unit": "ml",
+                    "Order": 3
+                },
+                {
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Knoblauch",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Karotten",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Tomatenmark",
+                    "Amount": "1",
+                    "Unit": "EL",
+                    "Order": 3
+                },
+                {
+                    "Name": "Mehl",
+                    "Amount": "20",
+                    "Unit": "g",
+                    "Order": 2
+                },
+                {
+                    "Name": "Sellerie",
+                    "Amount": "1",
+                    "Unit": "Stange",
+                    "Order": 2
                 }
             ]
         }

@@ -1,245 +1,315 @@
 {
-    "meals":[
+    "meals": [
         {
-            "Name":"Montag",
-            "Title":"Montag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/51024#",
-            "Image":"https://cdn.shopify.com/s/files/1/0274/9503/9079/files/20220211142754-margherita-9920_5a73220e-4a1a-4d33-b38f-26e98e3cd986.jpg?v=1723650067?w=640",
-            "Description":"Pizza",
-            "Ingredients":[
+            "Name": "Montag",
+            "Title": "Montag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/51024#",
+            "Image": "https://cdn.shopify.com/s/files/1/0274/9503/9079/files/20220211142754-margherita-9920_5a73220e-4a1a-4d33-b38f-26e98e3cd986.jpg?v=1723650067?w=640",
+            "Description": "Pizza",
+            "Ingredients": [
                 {
-                    "Name":"Pizzamehl",
-                    "Amount":"500",
-                    "Unit":"g"
+                    "Name": "Pizzamehl",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order":2
                 },
                 {
-                    "Name":"Hefe",
-                    "Amount":"10",
-                    "Unit":"g"
-                }, {
-                    "Name":"Käse",
-                    "Amount":"150",
-                    "Unit":"g"
-                }, 
+                    "Name": "Hefe",
+                    "Amount": "10",
+                    "Unit": "g",
+                    "Order":2
+                },
+
                 {
-                    "Name":"Olivenöl",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Tomatensoße",
+                    "Amount": "1",
+                    "Unit": "Dose",
+                    "Order":2
+                },
+
+                {
+                    "Name": "Käse",
+                    "Amount": "150",
+                    "Unit": "g",
+                    "Order":3
                 },
                 {
-                    "Name":"Rinderhackfleisch",
-                    "Amount":"400",
-                    "Unit":"g"
+                    "Name": "Wurst, Salami",
+                    "Amount": 1,
+                    "Unit": "Pack",
+                    "Order":3
                 },
                 {
-                    "Name":"Tomatenmark",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Grüner Salat",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order":1
                 },
                 {
-                    "Name":"gehackte Tomaten - Dose",
-                    "Amount":"800",
-                    "Unit":"g"
+                    "Name": "Tomaten",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order":1
                 },
                 {
-                    "Name":"Oregano",
-                    "Amount":"1",
-                    "Unit":"EL"
-                },
-                {
-                    "Name":"Spaghetti",
-                    "Amount":"500",
-                    "Unit":"g"
-                },    {
-                    "Name":"Grüner Salat",
-                    "Amount":"1",
-                    "Unit":""
-                },    {
-                    "Name":"Tomaten",
-                    "Amount":"2",
-                    "Unit":""
-                },    {
-                    "Name":"Gurke",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },     {
-            "Name":"Dienstag",
-            "Title":"Dienstag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/29259#",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2023/03/Lachs-im-Ofen-Gaumenfreundin-500x500.jpg",
-            "Description":"Fischknusperle mit Kartoffelnsalat",
-            "Ingredients":[
-                {
-                    "Name":"Lachs",
-                    "Amount":"300",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Bio-Zitrone",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Olivenöl",
-                    "Amount":"6",
-                    "Unit":"EL"
-                }, 
-                {
-                    "Name":"Knoblauchzehen",
-                    "Amount":"2",
-                    "Unit":""
-                },
-                {
-                    "Name":"Thymian",
-                    "Amount":"2",
-                    "Unit":"Zweige"
-                },
-                {
-                    "Name":"Honig",
-                    "Amount":"1",
-                    "Unit":"EL"
-                },
-                {
-                    "Name":"Quincha",
-                    "Amount":"1",
-                    "Unit":"cup"
-                },
-                {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Broccoli",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },{
-            "Name":"Mittwoch",
-            "Title":"Mittwoch",
-            "RecipeURL":"https://blog.nomad-reisen.de/oromo-kirgisische-teigtaschen/",
-            "Image":"https://i0.wp.com/blog.nomad-reisen.de/wp-content/uploads/2020/05/20200513_211146.jpg?resize=1024%2C650&ssl=1",
-            "Description":"Plov mit Tomatensalat",
-            "Ingredients":[
-                {
-                    "Name":"Mehl",
-                    "Amount":"600",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Ei",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"2",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":""
-                },
-                {
-                    "Name":"Weiskohl",
-                    "Amount":"1500",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Möhren",
-                    "Amount":"1",
-                    "Unit":""
+                    "Name": "Gurke",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order":1
                 }
             ]
         },
         {
-            "Name":"Donnerstag",
-            "Title":"Donnerstag",
-            "RecipeURL":"https://en.wikipedia.org/wiki/Vinegret",
-            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vinegret_cleaned.jpg/308px-Vinegret_cleaned.jpg",
-            "Description":"Borsch",
-            "Ingredients":[
+            "Name": "Dienstag",
+            "Title": "Dienstag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/29259#",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2023/05/Kartoffelsalat-von-Gaumenfreundin-500x500.jpg",
+            "Description": "Fischknusperle mit Kartoffelnsalat",
+            "Ingredients": [
                 {
-                    "Name":"Kartoffeln",
-                    "Amount":"800",
-                    "Unit":"g"
-                },   
-                {
-                    "Name":"Möhren",
-                    "Amount":"3",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Rote Beete",
-                    "Amount":"1",
-                    "Unit":"Packung"
+                    "Name": "Kartoffeln",
+                    "Amount": "800",
+                    "Unit": "g",
+                    "Order":1
                 },
                 {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Zwiebeln",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order":1
                 },
                 {
-                    "Name":"Erbsen",
-                    "Amount":"1",
-                    "Unit":"Dose"
+                    "Name": "Fleischbrühe",
+                    "Amount": "300",
+                    "Unit": "ml",
+                    "Order":3
                 },
                 {
-                    "Name":"Gewürzgurken",
-                    "Amount":"1",
-                    "Unit":"Glas"
+                    "Name": "Weißweinessig",
+                    "Amount": "3",
+                    "Unit": "EL",
+                    "Order":1
+                },
+                {
+                    "Name": "Senf",
+                    "Amount": "1",
+                    "Unit": "EL",
+                    "Order":1
+                },
+                {
+                    "Name": "Zucker",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":2
+                },
+                {
+                    "Name": "Schnittlauch",
+                    "Amount": "1",
+                    "Unit": "Bund",
+                    "Order":1
+                },
+                {
+                    "Name": "Fisch",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order":3
+                },
+                {
+                    "Name": "Panniermehl",
+                    "Amount": "100",
+                    "Unit": "g",
+                    "Order":2
                 }
             ]
         },
         {
-            "Name":"Freitag",
-            "Title":"Freitag",
-            "RecipeURL":"https://www.einfachkochen.de/rezepte/haehnchen-curry-mit-kokosmilch-in-nur-30-minuten-fertig",
-            "Image":"https://www.einfachkochen.de/sites/einfachkochen.de/files/styles/1500_1130/public/2021-07/haehnchen_curry_kokosmilch_1_0.jpg?h=4521fff0&itok=nBL5_-eq",
-            "Description":"Butterchicken mit Reis und Erbsen",
-            "Ingredients":[
-                
+            "Name": "Mittwoch",
+            "Title": "Mittwoch",
+            "RecipeURL": "https://en.wikipedia.org/wiki/Pilaf",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Baghali_Polo.png/560px-Baghali_Polo.png",
+            "Description": "Plov mit Tomatensalat",
+            "Ingredients": [
                 {
-                    "Name":"Hänchenbrust",
-                    "Amount":"250",
-                    "Unit":"g"
+                    "Name": "Reis",
+                    "Amount": "400",
+                    "Unit": "g",
+                    "Order":2
                 },
                 {
-                    "Name":"Asia Bohnen",
-                    "Amount":"1",
-                    "Unit":"Glas"
-                },    
-                {
-                    "Name":"Rotes Curry",
-                    "Amount":"1",
-                    "Unit":"TL"
-                },    
-                {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Kokosmilch",
-                    "Amount":"200",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Sprossen",
-                    "Amount":"1",
-                    "Unit":"Glass"
+                    "Name": "Möhren",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order":1
                 },
                 {
-                    "Name":"Paprika",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Zwiebel",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order":1
                 },
                 {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
+                    "Name": "Lamm",
+                    "Amount": "400",
+                    "Unit": "g",
+                    "Order":5
+                },
+                {
+                    "Name": "Knoblauchzehen",
+                    "Amount": "5",
+                    "Unit": "",
+                    "Order":1
+                }
+            ]
+        },
+        {
+            "Name": "Donnerstag",
+            "Title": "Donnerstag",
+            "RecipeURL": "https://en.wikipedia.org/wiki/Borsch",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borscht_served.jpg/500px-Borscht_served.jpg",
+            "Description": "Borsch",
+            "Ingredients": [
+                {
+                    "Name": "Rote Bete",
+                    "Amount": "1",
+                    "Unit": "Pack",
+                    "Order":1
+                },
+                {
+                    "Name": "Spitzkohl",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order":1
+                },
+                {
+                    "Name": "Kartoffeln",
+                    "Amount": "250",
+                    "Unit": "g",
+                    "Order":1
+                },
+
+                {
+                    "Name": "Karotten",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order":1
+                },
+
+                {
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "Stück",
+                    "Order":1
+                },
+                {
+                    "Name": "Suppenfleisch",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order":5
+                }
+            ]
+        },
+        {
+            "Name": "Freitag",
+            "Title": "Freitag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/62404",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2024/04/Butter-Chicken-einfach-500x500.jpg",
+            "Description": "Butterchicken mit Reis und Erbsen",
+            "Ingredients": [
+                {
+                    "Name": "Hänchenbrust",
+                    "Amount": "400",
+                    "Unit": "g",
+                    "Order":5
+                },
+                {
+                    "Name": "Naturjoghurt",
+                    "Amount": "3",
+                    "Unit": "EL",
+                    "Order":3
+                },
+                {
+                    "Name": "Limettensaft",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":1
+                },
+                {
+                    "Name": "Knoblauchzehen",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order":1
+                },
+                {
+                    "Name": "Ingwer",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":1
+                },
+                {
+                    "Name": "Garam Masala",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":2
+                },
+                {
+                    "Name": "Paprikapulver",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":2
+                },
+                {
+                    "Name": "Butter",
+                    "Amount": "4",
+                    "Unit": "EL",
+                    "Order":3
+                },
+                {
+                    "Name": "Zwiebeln",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order":1
+                },
+                {
+                    "Name": "Knoblauchzehen",
+                    "Amount": "2",
+                    "Unit": "",
+                    "Order":1
+                },
+                {
+                    "Name": "Ingwer",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":1
+                },
+                {
+                    "Name": "Cashewnüsse",
+                    "Amount": "60",
+                    "Unit": "g",
+                    "Order":1
+                },
+                {
+                    "Name": "Garam Masala",
+                    "Amount": "2",
+                    "Unit": "TL",
+                    "Order":2
+                },
+                {
+                    "Name": "Paprikapulver",
+                    "Amount": "1",
+                    "Unit": "TL",
+                    "Order":1
+                },
+                {
+                    "Name": "passierte Tomaten",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order":1
+                },
+                {
+                    "Name": "Sahne",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order":3
                 }
             ]
         }

@@ -1,245 +1,245 @@
 {
-    "meals":[
+    "meals": [
         {
-            "Name":"Montag",
-            "Title":"Montag",
-            "RecipeURL":"www.google.de",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2021/10/Bolognese-einfach-Gaumenfreundin-500x500.jpg",
-            "Description":"KA",
-            "Ingredients":[
+            "Name": "Montag",
+            "Title": "Montag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/32964",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2022/04/Spargel-Risotto-Garnelen-500x500.jpg",
+            "Description": "Risotto",
+            "Ingredients": [
                 {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":"Stück"
+                    "Name": "Risotto Reis",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Staudensellerie",
-                    "Amount":"2",
-                    "Unit":"Stangen"
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Olivenöl",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Butter",
+                    "Amount": "50",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Rinderhackfleisch",
-                    "Amount":"400",
-                    "Unit":"g"
+                    "Name": "Garnelen",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Tomatenmark",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Gemüsebrühe",
+                    "Amount": "1",
+                    "Unit": "L",
+                    "Order": 3
                 },
                 {
-                    "Name":"gehackte Tomaten - Dose",
-                    "Amount":"800",
-                    "Unit":"g"
+                    "Name": "Parmesan",
+                    "Amount": "50",
+                    "Unit": "g",
+                    "Order": 3
                 },
                 {
-                    "Name":"Oregano",
-                    "Amount":"1",
-                    "Unit":"EL"
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Spaghetti",
-                    "Amount":"500",
-                    "Unit":"g"
-                },    {
-                    "Name":"Grüner Salat",
-                    "Amount":"1",
-                    "Unit":""
-                },    {
-                    "Name":"Tomaten",
-                    "Amount":"2",
-                    "Unit":""
-                },    {
-                    "Name":"Gurke",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },     {
-            "Name":"Dienstag",
-            "Title":"Dienstag",
-            "RecipeURL":"https://www.gaumenfreundin.de/wprm_print/44318",
-            "Image":"https://www.gaumenfreundin.de/wp-content/uploads/2023/03/Lachs-im-Ofen-Gaumenfreundin-500x500.jpg",
-            "Description":"Lachs mit Quincha, Reis und Gemüse",
-            "Ingredients":[
-                {
-                    "Name":"Lachs",
-                    "Amount":"300",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Bio-Zitrone",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Olivenöl",
-                    "Amount":"6",
-                    "Unit":"EL"
-                }, 
-                {
-                    "Name":"Knoblauchzehen",
-                    "Amount":"2",
-                    "Unit":""
-                },
-                {
-                    "Name":"Thymian",
-                    "Amount":"2",
-                    "Unit":"Zweige"
-                },
-                {
-                    "Name":"Honig",
-                    "Amount":"1",
-                    "Unit":"EL"
-                },
-                {
-                    "Name":"Quincha",
-                    "Amount":"1",
-                    "Unit":"cup"
-                },
-                {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Broccoli",
-                    "Amount":"1",
-                    "Unit":""
-                }
-            ]
-        },{
-            "Name":"Mittwoch",
-            "Title":"Mittwoch",
-            "RecipeURL":"https://blog.nomad-reisen.de/oromo-kirgisische-teigtaschen/",
-            "Image":"https://i0.wp.com/blog.nomad-reisen.de/wp-content/uploads/2020/05/20200513_211146.jpg?resize=1024%2C650&ssl=1",
-            "Description":"Oromo mit Karotten und Spitzkohl",
-            "Ingredients":[
-                {
-                    "Name":"Mehl",
-                    "Amount":"600",
-                    "Unit":"g"
-                },
-                {
-                    "Name":"Ei",
-                    "Amount":"1",
-                    "Unit":""
-                }, {
-                    "Name":"Zwiebel",
-                    "Amount":"2",
-                    "Unit":""
-                }, 
-                {
-                    "Name":"Möhren",
-                    "Amount":"2",
-                    "Unit":""
-                },
-                {
-                    "Name":"Weiskohl",
-                    "Amount":"1500",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Möhren",
-                    "Amount":"1",
-                    "Unit":""
+                    "Name": "Knoblauch",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         },
         {
-            "Name":"Donnerstag",
-            "Title":"Donnerstag",
-            "RecipeURL":"https://en.wikipedia.org/wiki/Vinegret",
-            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vinegret_cleaned.jpg/308px-Vinegret_cleaned.jpg",
-            "Description":"Vinegret",
-            "Ingredients":[
+            "Name": "Dienstag",
+            "Title": "Dienstag",
+            "RecipeURL": "https://www.gaumenfreundin.de/wprm_print/35880",
+            "Image": "https://www.gaumenfreundin.de/wp-content/uploads/2022/09/Bandnudeln-mit-Lachs-einfach-500x500.jpg",
+            "Description": "Lachs mit Bandnudeln",
+            "Ingredients": [
                 {
-                    "Name":"Kartoffeln",
-                    "Amount":"800",
-                    "Unit":"g"
-                },   
-                {
-                    "Name":"Möhren",
-                    "Amount":"3",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Rote Beete",
-                    "Amount":"1",
-                    "Unit":"Packung"
+                    "Name": "Bandnudeln",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Lachs",
+                    "Amount": "300",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Erbsen",
-                    "Amount":"1",
-                    "Unit":"Dose"
+                    "Name": "Zwiebel",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Gewürzgurken",
-                    "Amount":"1",
-                    "Unit":"Glas"
+                    "Name": "Sahne",
+                    "Amount": "200",
+                    "Unit": "g",
+                    "Order": 3
+                },
+                {
+                    "Name": "Grüner Salat",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Tomaten",
+                    "Amount": "5",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Gurke",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         },
         {
-            "Name":"Freitag",
-            "Title":"Freitag",
-            "RecipeURL":"https://www.einfachkochen.de/rezepte/haehnchen-curry-mit-kokosmilch-in-nur-30-minuten-fertig",
-            "Image":"https://www.einfachkochen.de/sites/einfachkochen.de/files/styles/1500_1130/public/2021-07/haehnchen_curry_kokosmilch_1_0.jpg?h=4521fff0&itok=nBL5_-eq",
-            "Description":"Hänchencurry mit Reis",
-            "Ingredients":[
-                
+            "Name": "Mittwoch",
+            "Title": "Mittwoch",
+            "RecipeURL": "https://en.wikipedia.org/wiki/Samsa_%28food%29",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ouzbékistan-Samsas.jpg",
+            "Description": "Samsy mit Trockenteig",
+            "Ingredients": [
                 {
-                    "Name":"Hänchenbrust",
-                    "Amount":"250",
-                    "Unit":"g"
+                    "Name": "Mehl",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 2
                 },
                 {
-                    "Name":"Asia Bohnen",
-                    "Amount":"1",
-                    "Unit":"Glas"
-                },    
-                {
-                    "Name":"Rotes Curry",
-                    "Amount":"1",
-                    "Unit":"TL"
-                },    
-                {
-                    "Name":"Zwiebel",
-                    "Amount":"1",
-                    "Unit":""
-                },    
-                {
-                    "Name":"Kokosmilch",
-                    "Amount":"200",
-                    "Unit":"g"
-                },    
-                {
-                    "Name":"Sprossen",
-                    "Amount":"1",
-                    "Unit":"Glass"
+                    "Name": "Lammfleisch",
+                    "Amount": "500",
+                    "Unit": "g",
+                    "Order": 5
                 },
                 {
-                    "Name":"Paprika",
-                    "Amount":"1",
-                    "Unit":"Stück"
+                    "Name": "Zwiebel",
+                    "Amount": "4",
+                    "Unit": "",
+                    "Order": 1
                 },
                 {
-                    "Name":"Reis",
-                    "Amount":"200",
-                    "Unit":"g"
+                    "Name": "Gurke",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Tomaten",
+                    "Amount": "3",
+                    "Unit": "",
+                    "Order": 1
+                }
+            ]
+        },
+        {
+            "Name": "Donnerstag",
+            "Title": "Donnerstag",
+            "RecipeURL": "https://www.chefkoch.de/rezepte/1347431239536067/Praesidenten-Salat.html",
+            "Image": "https://img.chefkoch-cdn.de/rezepte/1347431239536067/bilder/168357/crop-642x428/praesidenten-salat.jpg",
+            "Description": "Raduga Salat",
+            "Ingredients": [
+                {
+                    "Name": "Ei",
+                    "Amount": "8",
+                    "Unit": "",
+                    "Order": 4
+                },
+                {
+                    "Name": "Rote Beete gekocht",
+                    "Amount": "1",
+                    "Unit": "Pack",
+                    "Order": 1
+                },
+                {
+                    "Name": "Weiskohl",
+                    "Amount": "0.3",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Essiggurken",
+                    "Amount": "1",
+                    "Unit": "Glas",
+                    "Order": 2
+                },
+                {
+                    "Name": "Mayonnaise",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Mais",
+                    "Amount": "1",
+                    "Unit": "Dose",
+                    "Order": 2
+                },
+                {
+                    "Name": "Kartoffel Sticks",
+                    "Amount": "150",
+                    "Unit": "g",
+                    "Order": 2
+                },
+                {
+                    "Name": "Karotte",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                }
+            ]
+        },
+        {
+            "Name": "Freitag",
+            "Title": "Freitag",
+            "RecipeURL": "https://www.chefkoch.de/rezepte/3973551609337480/Gegrillte-Haehnchenspiesse-griechischer-Art.html",
+            "Image": "https://img.chefkoch-cdn.de/rezepte/3973551609337480/bilder/1466894/crop-642x428/gegrillte-haehnchenspiesse-griechischer-art.jpg",
+            "Description": "Hänchenspiesse mit Rotkohlsalat und Reis",
+            "Ingredients": [
+                {
+                    "Name": "Hähnchenbrust",
+                    "Amount": "600",
+                    "Unit": "g",
+                    "Order": 3
+                },
+                {
+                    "Name": "Mayonnaise",
+                    "Amount": "1",
+                    "Unit": "EL",
+                    "Order": 2
+                },
+                {
+                    "Name": "Knoblauch",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Rotkohl",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Karotte",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
+                },
+                {
+                    "Name": "Grüner Salat",
+                    "Amount": "1",
+                    "Unit": "",
+                    "Order": 1
                 }
             ]
         }
